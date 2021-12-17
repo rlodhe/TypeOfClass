@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xY98pEKTEjaleea29GA2Q3kYOG7YSAMDurj9fHctrEEmZKf7aPJsvhVDTiz6T1Ex7/3bVwhLwMthU7lBawBccQ==",
+  "success": true,
+  "projectFilePath": "D:\\Angular\\Backup\\ClassType\\TypeOfClass\\TypeOfClass.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RUPESH\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

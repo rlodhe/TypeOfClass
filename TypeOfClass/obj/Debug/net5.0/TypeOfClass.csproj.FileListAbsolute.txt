@@ -1,0 +1,16 @@
+D:\Angular\Backup\ClassType\TypeOfClass\bin\Debug\net5.0\TypeOfClass.exe
+D:\Angular\Backup\ClassType\TypeOfClass\bin\Debug\net5.0\TypeOfClass.deps.json
+D:\Angular\Backup\ClassType\TypeOfClass\bin\Debug\net5.0\TypeOfClass.runtimeconfig.json
+D:\Angular\Backup\ClassType\TypeOfClass\bin\Debug\net5.0\TypeOfClass.runtimeconfig.dev.json
+D:\Angular\Backup\ClassType\TypeOfClass\bin\Debug\net5.0\TypeOfClass.dll
+D:\Angular\Backup\ClassType\TypeOfClass\bin\Debug\net5.0\ref\TypeOfClass.dll
+D:\Angular\Backup\ClassType\TypeOfClass\bin\Debug\net5.0\TypeOfClass.pdb
+D:\Angular\Backup\ClassType\TypeOfClass\obj\Debug\net5.0\TypeOfClass.csproj.AssemblyReference.cache
+D:\Angular\Backup\ClassType\TypeOfClass\obj\Debug\net5.0\TypeOfClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\Angular\Backup\ClassType\TypeOfClass\obj\Debug\net5.0\TypeOfClass.AssemblyInfoInputs.cache
+D:\Angular\Backup\ClassType\TypeOfClass\obj\Debug\net5.0\TypeOfClass.AssemblyInfo.cs
+D:\Angular\Backup\ClassType\TypeOfClass\obj\Debug\net5.0\TypeOfClass.csproj.CoreCompileInputs.cache
+D:\Angular\Backup\ClassType\TypeOfClass\obj\Debug\net5.0\TypeOfClass.dll
+D:\Angular\Backup\ClassType\TypeOfClass\obj\Debug\net5.0\ref\TypeOfClass.dll
+D:\Angular\Backup\ClassType\TypeOfClass\obj\Debug\net5.0\TypeOfClass.pdb
+D:\Angular\Backup\ClassType\TypeOfClass\obj\Debug\net5.0\TypeOfClass.genruntimeconfig.cache
