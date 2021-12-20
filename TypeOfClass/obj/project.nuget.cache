@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xY98pEKTEjaleea29GA2Q3kYOG7YSAMDurj9fHctrEEmZKf7aPJsvhVDTiz6T1Ex7/3bVwhLwMthU7lBawBccQ==",
+  "dgSpecHash": "+LLeYjZWHu3AXGl24gOv/Lgl4bRLrbP97N9fP+OUCrU2jIKHjQRyQAzzlKGmIXDJ3rmhNOjnHHGbK3wv+TaqVA==",
   "success": true,
-  "projectFilePath": "D:\\Angular\\Backup\\ClassType\\TypeOfClass\\TypeOfClass.csproj",
+  "projectFilePath": "D:\\Angular\\Backup\\GitMaster\\TypeOfClass\\TypeOfClass.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\RUPESH\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
   ],

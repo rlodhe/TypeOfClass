@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Angular\\Backup\\ClassType\\TypeOfClass\\TypeOfClass.csproj": {}
+    "D:\\Angular\\Backup\\GitMaster\\TypeOfClass\\TypeOfClass.csproj": {}
   },
   "projects": {
-    "D:\\Angular\\Backup\\ClassType\\TypeOfClass\\TypeOfClass.csproj": {
+    "D:\\Angular\\Backup\\GitMaster\\TypeOfClass\\TypeOfClass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Angular\\Backup\\ClassType\\TypeOfClass\\TypeOfClass.csproj",
+        "projectUniqueName": "D:\\Angular\\Backup\\GitMaster\\TypeOfClass\\TypeOfClass.csproj",
         "projectName": "TypeOfClass",
-        "projectPath": "D:\\Angular\\Backup\\ClassType\\TypeOfClass\\TypeOfClass.csproj",
+        "projectPath": "D:\\Angular\\Backup\\GitMaster\\TypeOfClass\\TypeOfClass.csproj",
         "packagesPath": "C:\\Users\\RUPESH\\.nuget\\packages\\",
-        "outputPath": "D:\\Angular\\Backup\\ClassType\\TypeOfClass\\obj\\",
+        "outputPath": "D:\\Angular\\Backup\\GitMaster\\TypeOfClass\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
