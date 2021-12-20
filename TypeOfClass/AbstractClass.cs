@@ -8,7 +8,7 @@ namespace TypeOfClass
         public string LastName { get; set; }
         public int EmployeeId { get; set; }
         public abstract void GetFullName(string FirstName, string LastName);
-
+        //
         public void GetDetails()
         {
             Console.WriteLine("OK Google");
